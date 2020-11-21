@@ -1,1 +1,2 @@
-# Serradura-recipe
+# Serradura
+A recipe for a delicious Portuguese dessert!
